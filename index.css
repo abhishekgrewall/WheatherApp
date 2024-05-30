@@ -12,7 +12,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #000;
+    background-color: #cabd2b;
 }
 
 .container{
@@ -126,6 +126,7 @@ body{
     font-size: 20px;
     font-weight: 700;
 }
+
 
 .location-not-found{
     margin-top: 20px;
